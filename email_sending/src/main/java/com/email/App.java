@@ -50,7 +50,7 @@ public class App {
 			@Override
 			protected PasswordAuthentication getPasswordAuthentication() {
 				// TODO Auto-generated method stub
-				return new PasswordAuthentication("techiemahesh045@gmail.com", "gwhdafxyrqipuibu");
+				return new PasswordAuthentication("techiemahesh045@gmail.com", "gwhdafxyrqipuibu");// app password not the original one
 			}
 
 		});
